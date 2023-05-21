@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mcnbt": "^2.0.2",
+    "node-fetch": "^2.6.11",
+    "prismarine-nbt": "^2.2.1"
+  }
+}
