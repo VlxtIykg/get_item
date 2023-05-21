@@ -1,0 +1,218 @@
+[{
+  "id": "ASPECT_OF_THE_END",
+  "enchantments": {
+    "telekinesis": 1
+  },
+  "uuid": "d2805401-52d5-47f8-b880-df2698cf324c",
+  "timestamp": "3/24/22 11:24 PM"
+}, {
+  "hot_potato_count": 10,
+  "gems": {
+    "SAPPHIRE_0": "FINE"
+  },
+  "modifier": "heroic",
+  "dungeon_item_level": 5,
+  "originTag": "QUICK_CRAFTING",
+  "id": "BAT_WAND",
+  "enchantments": {
+    "critical": 6,
+    "smite": 6,
+    "thunderlord": 5,
+    "ultimate_wise": 5,
+    "scavenger": 3,
+    "telekinesis": 1,
+    "vampirism": 5,
+    "life_steal": 3,
+    "giant_killer": 5,
+    "lethality": 5,
+    "PROSECUTE": 5
+  },
+  "uuid": "bc31e93d-969b-4502-8cb3-b53bf5578599",
+  "timestamp": "4/19/21 7:42 PM"
+}, {
+  "gems": {
+    "unlocked_slots": [
+      "SAPPHIRE_0",
+      "SAPPHIRE_1"
+    ],
+    "SAPPHIRE_0": "FINE",
+    "SAPPHIRE_1": "FINE"
+  },
+  "modifier": "heroic",
+  "id": "RUNIC_STAFF",
+  "boss_tier": 1,
+  "enchantments": {
+    "impaling": 3,
+    "luck": 5,
+    "critical": 5,
+    "looting": 3,
+    "scavenger": 3,
+    "ender_slayer": 5,
+    "fire_aspect": 2,
+    "experience": 3,
+    "vampirism": 5,
+    "life_steal": 3,
+    "giant_killer": 5,
+    "first_strike": 4,
+    "sharpness": 5,
+    "cubism": 5,
+    "PROSECUTE": 5
+  },
+  "uuid": "a79d37ef-2af7-45d8-bd19-de634b353e74",
+  "timestamp": "1/15/23 11:19 AM"
+}, {
+  "id": "WAND_OF_MENDING",
+  "uuid": "7e7acb69-2aa8-4a5a-88a6-25d4e58bec72",
+  "timestamp": "4/27/23 8:59 AM"
+}, {
+  "id": "SKYBLOCK_MENU"
+}, {
+  "id": "CRUDE_GABAGOOL"
+}, {
+  "tuned_transmission": 4,
+  "runes": {
+    "SNOW": 3
+  },
+  "modifier": "heroic",
+  "originTag": "CRAFTING_GRID_SHIFT",
+  "id": "ASPECT_OF_THE_END",
+  "enchantments": {
+    "luck": 5,
+    "critical": 5,
+    "cleave": 5,
+    "looting": 3,
+    "telekinesis": 1,
+    "scavenger": 3,
+    "ender_slayer": 5,
+    "fire_aspect": 2,
+    "experience": 3,
+    "life_steal": 3,
+    "execute": 5,
+    "giant_killer": 5,
+    "first_strike": 4,
+    "ultimate_wise": 5,
+    "sharpness": 5,
+    "cubism": 5
+  },
+  "uuid": "5e8f9a5f-4c05-4b5c-977a-35bcc257217b",
+  "timestamp": "1/10/21 1:52 PM"
+}, {
+  "rarity_upgrades": 1,
+  "hot_potato_count": 15,
+  "runes": {
+    "LAVA": 2
+  },
+  "modifier": "spiritual",
+  "dungeon_item_level": 4,
+  "upgrade_level": 5,
+  "id": "JUJU_SHORTBOW",
+  "enchantments": {
+    "impaling": 3,
+    "chance": 4,
+    "piercing": 1,
+    "ultimate_soul_eater": 5,
+    "telekinesis": 1,
+    "snipe": 3,
+    "overload": 5,
+    "punch": 2,
+    "dragon_hunter": 5,
+    "infinite_quiver": 10,
+    "power": 6,
+    "flame": 2,
+    "cubism": 5,
+    "aiming": 5
+  },
+  "uuid": "7d5bdab6-be5a-4b0f-96e6-75b738108eba",
+  "timestamp": "4/16/22 10:39 AM"
+}, {
+  "id": "WAND_OF_ATONEMENT",
+  "enchantments": {
+    "ultimate_wise": 5
+  },
+  "uuid": "c1b4a8b6-4f52-4343-9c61-78c40ff4b98f",
+  "donated_museum": 1,
+  "timestamp": "7/19/22 11:58 AM"
+}, {
+  "hot_potato_count": 10,
+  "gems": {
+    "JASPER_0": "FINE",
+    "unlocked_slots": [
+      "JASPER_0"
+    ]
+  },
+  "runes": {
+    "ZOMBIE_SLAYER": 2
+  },
+  "modifier": "fabled",
+  "upgrade_level": 5,
+  "id": "STARRED_SHADOW_FURY",
+  "enchantments": {
+    "ultimate_one_for_all": 1
+  },
+  "uuid": "c4b5c991-fbd9-4422-b9b8-d3e4daa03da6",
+  "timestamp": "5/6/23 11:13 AM"
+}, {
+  "hot_potato_count": 15,
+  "modifier": "withered",
+  "id": "DAEDALUS_AXE",
+  "enchantments": {
+    "luck": 6,
+    "critical": 6,
+    "looting": 4,
+    "syphon": 4,
+    "scavenger": 4,
+    "ender_slayer": 5,
+    "experience": 4,
+    "vampirism": 5,
+    "execute": 5,
+    "giant_killer": 5,
+    "first_strike": 4,
+    "venomous": 5,
+    "sharpness": 5,
+    "lethality": 6
+  },
+  "uuid": "0ff3a65d-4cfa-45aa-bb9d-e0b30037b7c4",
+  "timestamp": "5/6/23 12:12 AM"
+}, {
+  "id": "SKYBLOCK_MENU"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"fa885a16-7f5f-446b-85f2-5be2d2cb298d\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "fa885a16-7f5f-446b-85f2-5be2d2cb298d",
+  "timestamp": "5/21/23 2:36 AM"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"1a772a07-5245-4fc7-b0de-b44247b66011\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "1a772a07-5245-4fc7-b0de-b44247b66011",
+  "timestamp": "5/21/23 2:36 AM"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"f7911859-d766-4919-a413-8d8726994ae9\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "f7911859-d766-4919-a413-8d8726994ae9",
+  "timestamp": "5/21/23 2:36 AM"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"0edadaad-37b0-4e0c-9ada-75efe297b876\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "0edadaad-37b0-4e0c-9ada-75efe297b876",
+  "timestamp": "5/21/23 2:36 AM"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"1cb181f2-45de-4abd-b9a2-2e5d3404cf05\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "1cb181f2-45de-4abd-b9a2-2e5d3404cf05",
+  "timestamp": "5/21/23 2:36 AM"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"c7407044-e490-48c9-a4fd-44cf802c9b81\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "c7407044-e490-48c9-a4fd-44cf802c9b81",
+  "timestamp": "5/21/23 2:35 AM"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"4ae23a7e-a1b3-457a-a49e-18d442077448\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "4ae23a7e-a1b3-457a-a49e-18d442077448",
+  "timestamp": "5/21/23 2:36 AM"
+}, {
+  "petInfo": "{\"type\":\"SHEEP\",\"active\":false,\"exp\":94805.63999999998,\"tier\":\"LEGENDARY\",\"hideInfo\":false,\"candyUsed\":0,\"uuid\":\"92550745-0544-4550-9bc7-b6c1df5ef8a3\",\"hideRightClick\":false}",
+  "id": "PET",
+  "uuid": "92550745-0544-4550-9bc7-b6c1df5ef8a3",
+  "timestamp": "5/21/23 2:36 AM"
+}, ]
